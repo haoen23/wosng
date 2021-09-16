@@ -1,5 +1,5 @@
 {
-  "name": "vlessheroku",
+  "name": "vlu",
   "description": "Deploy vless on Heroku.",
   "keywords": [
     "vless"
@@ -10,7 +10,7 @@
       "value": "3a53a3e5-da83-48d2-aee9-d88a498eb3dd"
     }
   },
-  "website": "https://github.com/GeekNAUer/",
-  "repository": "https://github.com/GeekNAUer/vlessheroku",
+  "website": "https://github.com/haoen23",
+  "repository": "https://github.com/haoen23/wosng",
   "stack": "container"
 }
